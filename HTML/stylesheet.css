@@ -1,0 +1,33 @@
+        body{
+            margin: 0;
+            padding: 0;
+        }
+        .img1{
+        justify-self: center;
+        }
+        .img{
+            height: 30vh;
+            width: 28vw;
+        }
+        nav{
+            display: flex;
+            background-color: black;
+            color: white;
+        }
+        nav ul li a{
+            text-decoration: none;
+            color: white
+
+        }
+        nav ul li a:hover
+        .head{
+            text-align: center;
+        }
+        .foot{
+            background-color: black;
+            color: white;
+        }
+        .line{
+            border-color: red;
+        }
+    
