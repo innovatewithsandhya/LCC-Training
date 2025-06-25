@@ -14,20 +14,33 @@
             background-color: black;
             color: white;
         }
-        nav ul li a{
+        nav a{
             text-decoration: none;
-            color: white
+            color: white;
+            margin: 20px;
+            padding: 2px;
+            background-color: black;
 
         }
-        nav ul li a:hover
+    nav a:hover{
+        color: red;
+        transform: scale(1.5);
+
+    }
         .head{
             text-align: center;
         }
         .foot{
-            background-color: black;
-            color: white;
+            
+            color: rgb(0, 0, 0);
         }
         .line{
             border-color: red;
+        }
+        .foot{
+            height: 18vh;
+            text-align: center;
+            margin: 2px;
+            padding: 1px;
         }
     
